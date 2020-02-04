@@ -12,3 +12,6 @@
 
 # Ignore Rubymine files
 /.idea/*
+
+# No compiled gems
+*.gem
